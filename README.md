@@ -1,6 +1,6 @@
 <!-- ### Hi 👋 I'm Ravin Kumar Jangir -->
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://github.com/ravin1100/ravin1100/blob/main/github_profile_banner.gif)" width="600" height="300"/>
 </div>
 <h1 align="center">Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </span>, My name is Ravin Kumar Jangir</h1>
