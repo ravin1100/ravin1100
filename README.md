@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Java, SpringBoot, Hibernate**
 - 👯 I am also looking for some **Open Source Oppurtunities**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/ravin1100?tab=repositories)**
-- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1htZmDTAQgndTA8XWl5X_fn_EEtqJDjq8/view?usp=share_link)**
+- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1ys-za0gKZOah_C9rb2gcR-QlVCTaKHi3/view?usp=sharing)**
 -  💬 Ask me about **JAVA,Spring, Hibernate, MySQL, HTML, CSS, JavaScript and DSA**
 - 📫 How to reach me **shubhamdv13@gmail.com**
 
