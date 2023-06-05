@@ -1,10 +1,10 @@
 <!-- ### Hi 👋 I'm Ravin Kumar Jangir -->
-<!-- <div align="center">
+<div align="center">
   <img src="https://github.com/ravin1100/ravin1100/blob/main/github_profile_banner.gif" width="650" height="300"/>
-</div> -->
-<h1 align="center">Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</div>
+<!-- <h1 align="center">Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </span>, My name is Ravin Kumar Jangir</h1>
-<h3 align="center">An Aspiring Full Stack Web Developer.</h3>
+<h3 align="center">An Aspiring Full Stack Web Developer.</h3> -->
 
 ---
 <!-- **ravin1100/ravin1100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
