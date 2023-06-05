@@ -16,7 +16,7 @@
 - 👨‍💻 All of my projects are available at **[here](https://github.com/ravin1100?tab=repositories)**
 - 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1ys-za0gKZOah_C9rb2gcR-QlVCTaKHi3/view?usp=sharing)**
 -  💬 Ask me about **JAVA, Spring, Hibernate, MySQL, HTML, CSS, JavaScript, and DSA**
-- 📫 How to reach me **shubhamdv13@gmail.com**
+- 📫 How to reach me **ravinjangir.rj1100@gmail.com**
 
 ---
 
@@ -48,3 +48,4 @@
 ---
 
 ### Thanks for visiting! 😊
+<!-- [![](https://visitcount.itsvg.in/api?id=ravin1100&icon=0&color=0)](https://visitcount.itsvg.in) -->
