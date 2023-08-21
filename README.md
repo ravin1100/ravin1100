@@ -20,6 +20,25 @@
 
 ---
 
+name: Update GitHub Stats
+on:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Update GitHub Stats
+        uses: anuraghazra/github-readme-stats@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          username: your_username
+          show-icons: true
+          theme: radical
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravin-jangir-502a03142/) 
 
