@@ -48,12 +48,17 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ##
 ## :fire: My Stats :               <p></p>
-<p></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ravin1100&show_icons=true&locale=en&theme=tokyonight" alt="ravin1100" /></p>
-<br>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin1100&theme=tokyonight" alt="ravin1100" /></p> 
-<br>
-<div  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravin1100&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ravin1100" /></div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravin1100&show_icons=true&locale=en&theme=tokyonight" alt="ravin1100" /></p>
+</div>
+<div align="right">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravin1100&theme=tokyonight" alt="ravin1100" /></p> 
+</div>
+<div  align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravin1100&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ravin1100" />
+</div>
+
 
 ---
 
