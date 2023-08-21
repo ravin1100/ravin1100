@@ -34,7 +34,7 @@ jobs:
         uses: anuraghazra/github-readme-stats@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          username: your_username
+          username: ravin1100
           show-icons: true
           theme: radical
 
@@ -72,4 +72,4 @@ jobs:
 ---
 
 ### Thanks for visiting! 😊
-<!-- [![](https://visitcount.itsvg.in/api?id=ravin1100&icon=0&color=0)](https://visitcount.itsvg.in) -->
+[![Visit Count](https://visitcount.itsvg.in/api?id=ravin1100&icon=0&color=0)](https://visitcount.itsvg.in)
