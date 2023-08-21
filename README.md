@@ -1,17 +1,17 @@
-<!--
-### Hi 👋 I'm Ravin Kumar Jangir 
--->
+<!-- ### Hi 👋 I'm Ravin Kumar Jangir -->
+
+<!-- banner image -->
 <div align="center">
   <img src="https://github.com/ravin1100/ravin1100/blob/main/github_profile_banner.gif" width="650" height="300"/>
 </div>
+
 <!--
 <h1 align="center">Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </span>, My name is Ravin Kumar Jangir</h1>
-<h3 align="center">An Aspiring Full Stack Web Developer.</h3> 
--->
+<h3 align="center">An Aspiring Full Stack Web Developer.</h3> -->
 
 
 ## 
-## :man_technologist: About Me :                <p></p>
+## :man_technologist: About Me :     <p></p>
 I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🌱 I’m currently learning **Java, SpringBoot, Hibernate**
@@ -22,12 +22,12 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 - 📫 How to reach me **ravinjangir.rj1100@gmail.com**
 
 ##
-## 🌐 Socials :                  <p></p>
+## 🌐 Socials :     <p></p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravin-jangir-502a03142/) 
 
 
 ##
-## 🛠️ Languages & Tools :            <p></p>
+## 🛠️ Languages & Tools :     <p></p>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -47,8 +47,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 
 ##
-## :fire: My Stats :               <p></p>
-
+## :fire: My Stats :     <p></p>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ravin1100&show_icons=true&locale=en&theme=tokyonight" alt="ravin1100" /></p>
 </div>
@@ -69,7 +68,4 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 <div align="center">
   Thank You for visiting :pray:
 </div>
-
-
-
 
