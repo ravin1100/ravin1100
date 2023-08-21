@@ -54,9 +54,8 @@
 
 ### Thanks for visiting! 😊
 <!--[![Visit Count](https://visitcount.itsvg.in/api?id=ravin1100&icon=0&color=0)](https://visitcount.itsvg.in) -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravin1100&label=Profile%20views&color=0e75b6&style=flat" alt="ravin1100" /> </p>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravin1100&label=Profile%20views&color=0e75b6&style=flat" alt="ravin1100" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravin1100&show_icons=true&locale=en&layout=compact" alt="ravin1100" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravin1100&show_icons=true&locale=en" alt="ravin1100" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin1100&" alt="ravin1100" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin1100&" alt="ravin1100" /></p> -->
