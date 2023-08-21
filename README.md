@@ -44,11 +44,18 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravin1100&show_icons=true&locale=en&theme=tokyonight" alt="ravin1100" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravin1100&show_icons=true&locale=en&theme=tokyonight" alt="ravin1100" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin1100&theme=tokyonight" alt="ravin1100" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravin1100&show_icons=true&locale=en&theme=tokyonight" alt="ravin1100" /></p>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin1100&theme=tokyonight" alt="ravin1100" />
+</div>
+
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravin1100&show_icons=true&locale=en&theme=tokyonight" alt="ravin1100" /><</div>
 
 ---
 
